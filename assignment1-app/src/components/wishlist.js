@@ -16,8 +16,8 @@ function HoverHandler() {
       color: isNum1Hovered ? "pink" : "gray"
     }}
     >&#10084;</p>
-        <h3>Mountain View Grill</h3>
-        <p>A rustic grill with panoramic views of the mountains. Enjoy hearty, comfort food while soaking in the breathtaking landscape - great for a family dinner or a weekend getaway.</p>
+        <h3>The Green Fork</h3>
+        <p>A cozy farm-to-table restaurant offering fresh, locally sourced ingredients. Perfect for those looking for a healthy, eco-friendly dining experience.</p>
     </section>
     <section>
     <p
@@ -26,8 +26,8 @@ function HoverHandler() {
       color: isNum2Hovered ? "pink" : "gray"
     }}
     >&#10084;</p>
-        <h3>Mountain View Grill</h3>
-        <p>A rustic grill with panoramic views of the mountains. Enjoy hearty, comfort food while soaking in the breathtaking landscape - great for a family dinner or a weekend getaway.</p>
+        <h3>Sea Breeze Bistro</h3>
+        <p>Located by the ocean, this seafood restaurant serves fresh catch of the day with a scenic view. Ideal for seafood lovers who enjoy a relaxed atmosphere.</p>
     </section>
     <section>
     <p

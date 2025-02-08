@@ -1,0 +1,34 @@
+body {
+    height: 100%;
+    background-color: beige;
+    color: darkslategrey;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    border: none;
+    margin-left: 1em;
+    background-color: #AC3233;
+    padding: 0.5em;
+    border-radius: 20px;
+    color: beige;
+}
+
+h1 {
+    margin: 1em 0;
+}
+
+h2 {
+    margin: 2em 0;
+}
+
+#sections {
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    width: 33%;
+}
+
